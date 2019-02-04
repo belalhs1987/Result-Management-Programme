@@ -1,0 +1,27 @@
+.main_body{
+	margin: 0 auto; 
+	background-color: white; 
+	margin-top: 20px; 
+	min-height: 400px;
+	 
+}
+.banner{
+	 min-height:200px;
+	 background-image: radial-gradient(circle, white, yellow, green, red, blue);
+	 color:#e6005c;
+	 text-shadow: 3px 2px black;
+	 text-align: center;
+	 padding-top: 10px;
+	 width: 2450px;
+}
+.mainMenu{
+	 height:40px;
+	 width: 2450px;
+	 background:-webkit-linear-gradient(black,yellow 1px, black 25px);
+	 background: -o-linear-gradient(black,yellow 1px, black 25px);
+	 background: linear-gradient(black,yellow 1px, black 25px);
+	 border-bottom:2px solid red;
+ }
+ .result_table{
+ 	font-size: 15px;
+ }

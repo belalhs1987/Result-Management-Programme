@@ -1,0 +1,3 @@
+becomeSubscriber(){
+	alert("ok");
+}
